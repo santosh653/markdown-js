@@ -3,5 +3,5 @@ arch:
   - ppc64le
 language: node_js
 node_js:
-  - "14"
-  - "15"
+  - "10"
+  - "11"
